@@ -1,10 +1,10 @@
-Golang Mini Projects
+**Golang Mini Projects**
 
 This README provides instructions for understanding, running, and exploring the Go mini-projects created as reference implementations for Golang intern training.
 
 Each mini-project represents a focused task designed to strengthen core Go concepts and industry-relevant problem-solving skills.
 
-Prerequisites
+**Prerequisites**
 
 Before working with the projects in this repository, ensure you have the following installed:
 
@@ -31,7 +31,7 @@ go run main.go
 
 Repeat the same steps for other task folders.
 
-Contribution Guidelines
+**Contribution Guidelines**
 
 This repository is primarily maintained as a reference for learning.
 
